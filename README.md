@@ -1,4 +1,4 @@
-<h5 align="center">DIO Bank em .NET</h5>
+<h1 align="center">DIO Bank em .NET :bank:</h1>
 
 <details>
     <summary><strong>Métodos</strong></summary>
